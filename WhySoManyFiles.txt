@@ -1,0 +1,3 @@
+This is actually my first time trying to use github from VScode, trying Git commands, clones the repositary 
+and stuff. Making branchs, merging them. Kinda fun actually. Gonna commit and push this back to the main branch 
+now hehe.
