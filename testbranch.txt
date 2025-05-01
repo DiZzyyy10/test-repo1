@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>200 Lines HTML Webpage</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f0f0f0; }
+        .container { width: 80%; margin: 20px auto; background: white; padding: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        header, footer { background-color: #007ACC; color: white; padding: 10px; }
+        nav { margin: 10px 0; }
+        nav a { margin-right: 15px; text-decoration: none; color: #007ACC; }
+        section { margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to the 200 Lines Webpage</h1>
+            <p>This page is auto-generated with exactly 200 lines of HTML code.</p>
+        </header>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
+        </nav>
+        <section id="home">
+            <h2>Home</h2>
+            <p>Welcome to our homepage. Here you see an example of an HTML document with 200 lines.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in mauris ac nulla commodo blandit.</p>
+        </section>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Our mission is to create elegant web pages using clean code.</p>
+            <p>Aliquam euismod mauris vitae felis cursus, eu fermentum metus dapibus.</p>
+        </section>
+        <section id="services">
+            <h2>Services</h2>
+            <ul>
+                <li>Web Design</li>
+                <li>Web Development</li>
+                <li>Responsive Design</li>
+                <li>SEO Optimization</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>You can reach us via email or phone, details are provided below.</p>
+            <address>
+                Email: info@example.com<br>
+                Phone: (123) 456-7890
+            </address>
+        </section>
+        <section id="more">
+            <h2>More Content</h2>
+            <p>Paragraph 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Paragraph 2: Vestibulum nec diam nec arcu auctor egestas.</p>
+            <p>Paragraph 3: Duis at nisl vitae sapien dictum sollicitudin.</p>
+            <p>Paragraph 4: Phasellus ac lorem quis libero tempor fringilla.</p>
+            <p>Paragraph 5: Curabitur maximus dui sed libero blandit, a interdum dui porta.</p>
+            <p>Paragraph 6: Nulla facilisi. Proin ut ligula et odio sollicitudin tincidunt.</p>
+            <p>Paragraph 7: Maecenas in erat vel lorem elementum gravida.</p>
+            <p>Paragraph 8: Sed euismod, urna ut tempus ultrices, lorem neque vehicula turpis, at consequat lorem magna a leo.</p>
+            <p>Paragraph 9: Vivamus tincidunt dolor non nulla facilisis, ac hendrerit orci vulputate.</p>
+            <p>Paragraph 10: Suspendisse potenti. Ut a lacus ac nisi fermentum lobortis.</p>
+            <p>Paragraph 11: In hac habitasse platea dictumst. Aliquam erat volutpat.</p>
+            <p>Paragraph 12: Fusce vel nulla eget nibh consectetur aliquam.</p>
+            <p>Paragraph 13: Praesent non magna ac est vehicula dictum.</p>
+            <p>Paragraph 14: Cras in mauris non nisi auctor tincidunt.</p>
+            <p>Paragraph 15: Donec at orci vitae massa ullamcorper fermentum.</p>
+            <p>Paragraph 16: Etiam sit amet elit in libero fermentum bibendum.</p>
+            <p>Paragraph 17: Quisque vitae sapien ac purus luctus aliquam.</p>
+            <p>Paragraph 18: Mauris ullamcorper ex nec urna finibus, in consequat tellus vulputate.</p>
+            <p>Paragraph 19: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;</p>
+            <p>Paragraph 20: Integer vulputate velit a ligula varius, sit amet condimentum sem pulvinar.</p>
+            <!-- Filler line 1 -->
+            <!-- Filler line 2 -->
+            <!-- Filler line 3 -->
+            <!-- Filler line 4 -->
+            <!-- Filler line 5 -->
+            <!-- Filler line 6 -->
+            <!-- Filler line 7 -->
+            <!-- Filler line 8 -->
+            <!-- Filler line 9 -->
+            <!-- Filler line 10 -->
+            <!-- Filler line 11 -->
+            <!-- Filler line 12 -->
+            <!-- Filler line 13 -->
+            <!-- Filler line 14 -->
+            <!-- Filler line 15 -->
+            <!-- Filler line 16 -->
+            <!-- Filler line 17 -->
+            <!-- Filler line 18 -->
+            <!-- Filler line 19 -->
+            <!-- Filler line 20 -->
+            <!-- Filler line 21 -->
+            <!-- Filler line 22 -->
+            <!-- Filler line 23 -->
+            <!-- Filler line 24 -->
+            <!-- Filler line 25 -->
+            <!-- Filler line 26 -->
+            <!-- Filler line 27 -->
+            <!-- Filler line 28 -->
+            <!-- Filler line 29 -->
+            <!-- Filler line 30 -->
+            <!-- Filler line 31 -->
+            <!-- Filler line 32 -->
+            <!-- Filler line 33 -->
+            <!-- Filler line 34 -->
+            <!-- Filler line 35 -->
+            <!-- Filler line 36 -->
+            <!-- Filler line 37 -->
+            <!-- Filler line 38 -->
+            <!-- Filler line 39 -->
+            <!-- Filler line 40 -->
+            <!-- Filler line 41 -->
+            <!-- Filler line 42 -->
+            <!-- Filler line 43 -->
+            <!-- Filler line 44 -->
+            <!-- Filler line 45 -->
+            <!-- Filler line 46 -->
+            <!-- Filler line 47 -->
+            <!-- Filler line 48 -->
+            <!-- Filler line 49 -->
+            <!-- Filler line 50 -->
+            <!-- Filler line 51 -->
+            <!-- Filler line 52 -->
+            <!-- Filler line 53 -->
+            <!-- Filler line 54 -->
+            <!-- Filler line 55 -->
+            <!-- Filler line 56 -->
+            <!-- Filler line 57 -->
+            <!-- Filler line 58 -->
+            <!-- Filler line 59 -->
+            <!-- Filler line 60 -->
+            <!-- Filler line 61 -->
+            <!-- Filler line 62 -->
+            <!-- Filler line 63 -->
+            <!-- Filler line 64 -->
+            <!-- Filler line 65 -->
+            <!-- Filler line 66 -->
+            <!-- Filler line 67 -->
+            <!-- Filler line 68 -->
+            <!-- Filler line 69 -->
+            <!-- Filler line 70 -->
+            <!-- Filler line 71 -->
+            <!-- Filler line 72 -->
+            <!-- Filler line 73 -->
+            <!-- Filler line 74 -->
+            <!-- Filler line 75 -->
+            <!-- Filler line 76 -->
+            <!-- Filler line 77 -->
+            <!-- Filler line 78 -->
+            <!-- Filler line 79 -->
+            <!-- Filler line 80 -->
+            <!-- Filler line 81 -->
+            <!-- Filler line 82 -->
+            <!-- Filler line 83 -->
+            <!-- Filler line 84 -->
+            <!-- Filler line 85 -->
+            <!-- Filler line 86 -->
+            <!-- Filler line 87 -->
+            <!-- Filler line 88 -->
+            <!-- Filler line 89 -->
+            <!-- Filler line 90 -->
+            <!-- Filler line 91 -->
+            <!-- Filler line 92 -->
+            <!-- Filler line 93 -->
+            <!-- Filler line 94 -->
+            <!-- Filler line 95 -->
+            <!-- Filler line 96 -->
+            <!-- Filler line 97 -->
+            <!-- Filler line 98 -->
+            <!-- Filler line 99 -->
+            <!-- Filler line 100 -->
+            <!-- Filler line 101 -->
+            <!-- Filler line 102 -->
+            <!-- Filler line 103 -->
+            <!-- Filler line 104 -->
+            <!-- Filler line 105 -->
+            <!-- Filler line 106 -->
+            <!-- Filler line 107 -->
+            <!-- Filler line 108 -->
+            <!-- Filler line 109 -->
+            <!-- Filler line 110 -->
+            <!-- Filler line 111 -->
+            <!-- Filler line 112 -->
+            <!-- Filler line 113 -->
+            <!-- Filler line 114 -->
+        </section>
+        <footer>
+            <p>Footer Content - Copyright © 2023</p>
+            <p>Additional footer information line 1.</p>
+            <p>Additional footer information line 2.</p>
+            <p>Additional footer information line 3.</p>
+        </footer>
+    </div>
+</body>
+</html>
